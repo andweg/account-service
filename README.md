@@ -1,5 +1,5 @@
 # Account Service
-#### A Spring-based REST service allowing for the delivery of payrolls to employee's accounts on the corporate website.
+A Spring-based REST service allowing for the delivery of payrolls to employee's accounts on the corporate website.
 
 ## Endpoints
 #### available to everyone:
