@@ -13,6 +13,7 @@ A Spring-based REST service allowing for the delivery of payrolls to employee's 
 * Automatic locking of user account after recognizing a brute force attack (5 failed login attempts)
 * Logging security events (failed logins, brute force & unauthorized access attempts, user lock/unlock)
 * Accessing security logs
+* HTTPS support
 
 ## Endpoints
 #### accessible to everyone
@@ -34,4 +35,4 @@ A Spring-based REST service allowing for the delivery of payrolls to employee's 
 * ```PUT /api/admin/user/role``` grants and removes user roles 
 
 ## Sources
-This application was created as a graduate project for the [JetBrains Academy](https://www.jetbrains.com/academy/)'s Java Backend track.
+This application was created as a graduate project for the [JetBrains Academy](https://www.jetbrains.com/academy/)'s Java Backend Developer track.
