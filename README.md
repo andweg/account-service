@@ -32,3 +32,6 @@ A Spring-based REST service allowing for the delivery of payrolls to employee's 
 * ```PUT /api/admin/user/access``` locks and unlocks user accounts
 * ```DELETE /api/admin/{user-email}``` removes users from the database
 * ```PUT /api/admin/user/role``` grants and removes user roles 
+
+## Sources
+This application was created as a graduate project for the [JetBrains Academy](https://www.jetbrains.com/academy/)'s Java Backend track.
